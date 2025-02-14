@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong backg
 
 Here are some of the projects I have worked on:
 
-- **[Project Name](link-to-your-project)**: Brief description of the project (e.g., "A full-stack application built with the MERN stack to manage tasks").
+- **[Project Name](https://ganeshpandip.github.io/Memory-Game-in-java-scirpt/)**: Fun and simple memory game, like the one from Super Mario 3, made with plain JavaScript.
 - **[Project Name](link-to-your-project)**: Brief description of the project.
 - **[Project Name](link-to-your-project)**: Brief description of the project.
 
