@@ -26,7 +26,7 @@ Here are some of the projects I have worked on:
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/)
+- **LinkedIn**: (https://www.linkedin.com/in/ganesh-pandi-843817318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email**: [ganesh2003730@gmail.com]
 
 Feel free to check out my repositories, and if you're interested in collaborating on a project, don't hesitate to reach out!
