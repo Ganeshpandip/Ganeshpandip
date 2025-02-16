@@ -27,6 +27,6 @@ Here are some of the projects I have worked on:
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/)
-- **Email**: [Your Email]
+- **Email**: [ganesh2003730@gmail.com]
 
 Feel free to check out my repositories, and if you're interested in collaborating on a project, don't hesitate to reach out!
